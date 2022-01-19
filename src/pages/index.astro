@@ -29,7 +29,7 @@ import Counter from '../components/Counter.tsx';
 				<div class="container max-w-5xl mx-auto px-4">
 					<div class="w-4/5 mx-auto">
 					<h1 class="mt-32 text-white text-6xl font-bold">
-						<img width="60" height="80" src="/assets/brand/logo.svg" alt="Astro logo" /> Welcome to
+						<img width="60" height="80" src={Astro.resolve("../assets/brand/logo.svg")}alt="Astro logo" /> Welcome to
 						<a href="https://astro.build/">Astro</a>
 					</h1>
 					</div>
@@ -41,7 +41,7 @@ import Counter from '../components/Counter.tsx';
 						This is how easy it is to get started
 					</h3>
 					</div>
-					<div class="w-2/5 mx-auto bg-black text-white p-10 leading-10 rounded-2xl shadow-lg">
+					<div class="mx-auto bg-black text-white p-10 leading-10 rounded-2xl shadow-lg">
 					npm init astro project-name -- --template vagelisp/Astro-Preact-Tailwind<br />
 					cd project-name<br />
 					npm install<br />
