@@ -6,6 +6,6 @@ npm init astro testing-link -- --template vagelisp/Astro-Preact-Tailwind
 [![Deploy to netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/vagelisp/Astro-Preact-Tailwind)
 [![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/vagelisp/Astro-Preact-Tailwind)
 
-This example showcases Astro working with [Preact](https://preactjs.com) and [Tailwind CSS](https://tailwindcss.com/).
+This example showcases [Astro](https://astro.build/) working with [Preact](https://preactjs.com) and [Tailwind CSS](https://tailwindcss.com/).
 
 Write your Preact components as `.jsx` or `.tsx` files in your project.
