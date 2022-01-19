@@ -4,7 +4,7 @@
 npm init astro testing-link -- --template vagelisp/Astro-Preact-Tailwind
 ```
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://github.com/vagelisp/Astro-Preact-Tailwind)
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github.com/vagelisp/Astro-Preact-Tailwind)
 
 This example showcases Astro working with [Preact](https://preactjs.com) and [Tailwind CSS](https://tailwindcss.com/).
 
