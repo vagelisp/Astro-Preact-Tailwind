@@ -1,4 +1,4 @@
-# Astro + Preact + Tailwind CSS Example
+# Astro + Preact + Tailwind CSS Starter
 [![Netlify Status](https://api.netlify.com/api/v1/badges/602d9474-3ad2-49a9-a012-169c715a608c/deploy-status)](https://app.netlify.com/sites/astro-preact-tailwind/deploys)
 ```
 npm init astro testing-link -- --template vagelisp/Astro-Preact-Tailwind
